@@ -27,9 +27,12 @@
 </table>
 
 ## 2. Công nghệ sử dụng:
-  ### Database: 
-  #### SQL Server
-  ### Application
+  ### - Database: 
+  <ul>
+    <li> SQL Server</li>  
+  </ul>
+  
+  ### - Application
   
   <ul>
     <li>FRAMEWORK: .NET FRAMEWORK 4.8, Enity Framework ( LINQ )</li>
@@ -40,8 +43,8 @@
   
   Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-application)
   
-  ### Website:
-  #### Font-end:
+  ### - Website:
+   #### + Font-end:
    
   <ul>
     <li>Lib: ReactJS</li>
@@ -53,11 +56,16 @@
   
    Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-website-frontend)
    
-  #### Back-end:
+   #### + Back-end:
   <ul>
      <li>FRAMEWORK:ASP.NET MVC 4.8</li>
     <li>Service: Cloudinary</li>
   </ul>
   
  Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-website-backend)
- 
+
+## 3. Chi tiết 
+### 3.1 Sơ đồ tổng quan
+## 4. Triển khai dự án
+### 4.1. Mô tả tổng quan
+### 4.2. Yêu cầu chức năng/Thành phần
