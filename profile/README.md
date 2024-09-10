@@ -67,6 +67,7 @@
 ## 3. Chi tiết 
 ### 3.1 Sơ đồ tổng quan
 <img width="300px" height="300px" src="https://res.cloudinary.com/dbmhu911n/image/upload/v1725937732/chat-app-file/ld6ijlxejcpgrovoa4mr.png" alt="nike"/>
+
 ## 4. Triển khai dự án
 ### 4.1. Mô tả tổng quan
 - Ứng dụng bán hàng thời trang Nike đa nền tảng hỗ trợ cho việc quản lý và bán các mặt hàng liên quan đến thời trang.
