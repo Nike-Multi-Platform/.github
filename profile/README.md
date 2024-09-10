@@ -1,5 +1,5 @@
 # Môn học: Phát triển ứng dụng phần mềm thông minh 
-## Đề tài: Ứng dụng bán hàng thời trang Nike đa nền tảng <img width="50" height="60" src="https://img.icons8.com/clouds/100/nike.png" alt="nike"/>
+## Đề tài: Ứng dụng bán hàng thời trang Nike<img width="50" height="60" src="https://img.icons8.com/clouds/100/nike.png" alt="nike"/>
 ## 1. Thành viên:
 <table>  
 <tr><th>MSSV</th><th>Họ tên</th><th>Lớp</th><th>Vai trò<th>Email</th></tr>  
@@ -66,6 +66,7 @@
 
 ## 3. Chi tiết 
 ### 3.1 Sơ đồ tổng quan
+<img width="300px" height="300px" src="https://res.cloudinary.com/dbmhu911n/image/upload/v1725937732/chat-app-file/ld6ijlxejcpgrovoa4mr.png" alt="nike"/>
 ## 4. Triển khai dự án
 ### 4.1. Mô tả tổng quan
 - Ứng dụng bán hàng thời trang Nike đa nền tảng hỗ trợ cho việc quản lý và bán các mặt hàng liên quan đến thời trang.
