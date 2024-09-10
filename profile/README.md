@@ -71,7 +71,7 @@
 - Ứng dụng bán hàng thời trang Nike đa nền tảng hỗ trợ cho việc quản lý và bán các mặt hàng liên quan đến thời trang.
 - Mục tiêu sử dụng website để hiển thị các mặt hàng thời trang dành cho việc buôn bán, application để cho việc quản lý các mặt hàng thời trang.
 ### 4.2. Yêu cầu chức năng/Thành phần
-- AI:Sử dụng CNN để tìm kiếm sản phẩm bằng hình chụp.
+- AI: Sử dụng CNN để dự đoán tìm kiếm sản phẩm bằng hình ảnh.
 - Website:
   - Khách hàng:
     - Đăng ký/Đăng nhập
