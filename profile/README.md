@@ -68,4 +68,45 @@
 ### 3.1 Sơ đồ tổng quan
 ## 4. Triển khai dự án
 ### 4.1. Mô tả tổng quan
+- Ứng dụng bán hàng thời trang Nike đa nền tảng hỗ trợ cho việc quản lý và bán các mặt hàng liên quan đến thời trang.
+- Mục tiêu sử dụng website để hiển thị các mặt hàng thời trang dành cho việc buôn bán, application để cho việc quản lý các mặt hàng thời trang.
 ### 4.2. Yêu cầu chức năng/Thành phần
+- AI:Sử dụng CNN để tìm kiếm sản phẩm bằng hình chụp.
+- Website:
+  - Khách hàng:
+    - Đăng ký/Đăng nhập
+    - Cập nhật hồ sơ khách hàng
+    - Xem sản phẩm
+    - Đặt hàng
+    - Thanh toán
+    - Đánh giá sản phẩm
+    - Hủy đặt hàng/Xác nhận đã nhận hàng
+- Application:
+    - Quản trị viên:
+       - Quản lý tài khoản khách hàng
+       - Quản lý danh mục sản phẩm
+       - Quản lý sản phẩm
+       - Quản lý đơn hàng
+       - Quản lý voucher
+       - Quản lý flashsales
+       - Quản lý nhà cung cấp
+       - Nhập hàng
+       - Thống kê doanh thu
+# 5. Bảng phân công 
+<tr>
+  <th>MSSV</th>
+  <th>Họ tên</th>
+  <th>Công việc</th>
+</tr>  
+<tr>
+  <td>Phan Ngọc Bảo Vinh</td>
+  <td></td> 
+</tr>
+<tr>
+  <td>Bồ Quang Diệu</td>
+  <td></td> 
+</tr>
+<tr>
+  <td>Hồ Hoàng Khắc Dũng</td>
+  <td></td> 
+</tr>
