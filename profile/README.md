@@ -29,7 +29,7 @@
 ## 2. Công nghệ sử dụng:
   ### Application: 
   <ul>
-    <li>FRAMEWORK: .NET FRAMEWORK 4.8, Enity Framework ( LINQ )</li>
+    <li>FRAMEWORK: .NET Framework 4.8, Enity Framework ( LINQ )</li>
     <li>UI Lib: Krypton Toolkit </li>
     <li>Lib: AutoMapper</li>
     <li>Service: Cloudinary</li>
