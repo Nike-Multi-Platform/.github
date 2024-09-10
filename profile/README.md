@@ -93,7 +93,8 @@
        - Nhập hàng
        - Thống kê doanh thu
 # 5. Bảng phân công 
-<tr>
+<table>
+  <tr>
   <th>MSSV</th>
   <th>Họ tên</th>
   <th>Công việc</th>
@@ -110,3 +111,5 @@
   <td>Hồ Hoàng Khắc Dũng</td>
   <td></td> 
 </tr>
+</table>
+
