@@ -95,7 +95,6 @@
 # 5. Bảng phân công 
 <table>
   <tr>
-  <th>MSSV</th>
   <th>Họ tên</th>
   <th>Công việc</th>
 </tr>  
