@@ -1,4 +1,4 @@
-# Môn học: Phát triển ứng dụng phần mềm thông minh 
+# Môn học: Phát triển ứng dụng phần mềm thông minh <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
 ## Đề tài: Ứng dụng bán hàng thời trang Nike đa nền tảng <img width="50" height="60" src="https://img.icons8.com/clouds/100/nike.png" alt="nike"/>
 ## 1. Thành viên:
 <table>  
