@@ -1,4 +1,4 @@
-# Môn học: Phát triển ứng dụng phần mềm thông minh <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
+# Môn học: Phát triển ứng dụng phần mềm thông minh 
 ## Đề tài: Ứng dụng bán hàng thời trang Nike đa nền tảng <img width="50" height="60" src="https://img.icons8.com/clouds/100/nike.png" alt="nike"/>
 ## 1. Thành viên:
 <table>  
@@ -27,15 +27,37 @@
 </table>
 
 ## 2. Công nghệ sử dụng:
-  ### Application: 
+  ### Database: 
+  #### SQL Server
+  ### Application
+  
   <ul>
-    <li>FRAMEWORK: .NET Framework 4.8, Enity Framework ( LINQ )</li>
+    <li>FRAMEWORK: .NET FRAMEWORK 4.8, Enity Framework ( LINQ )</li>
     <li>UI Lib: Krypton Toolkit </li>
     <li>Lib: AutoMapper</li>
     <li>Service: Cloudinary</li>
   </ul>
   
+  Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-application)
+  
   ### Website:
   #### Font-end:
+   
+  <ul>
+    <li>Lib: ReactJS</li>
+    <li>UI Lib: Antd</li>
+    <li>Framework: Tailwind CSS</li>
+    <li>Service: Cloudinary</li>
     
+  </ul>
+  
+   Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-website-frontend)
+   
   #### Back-end:
+  <ul>
+     <li>FRAMEWORK:ASP.NET MVC 4.8</li>
+    <li>Service: Cloudinary</li>
+  </ul>
+  
+ Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-website-backend)
+ 
