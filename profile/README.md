@@ -102,7 +102,7 @@
 </tr>  
 <tr>
   <td>Phan Ngọc Bảo Vinh</td>
-  <td> </td> 
+  <td>Application: quản lý sản phẩm, nhập hàng </td> 
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
