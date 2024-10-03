@@ -106,11 +106,11 @@
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
-  <td>Làm lọc dữ liệu tìm kiếm sản phẩm,thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng</td> 
+  <td>Application:Làm lọc dữ liệu tìm kiếm sản phẩm,thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng</td> 
 </tr>
 <tr>
   <td>Hồ Hoàng Khắc Dũng</td>
-  <td>danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng</td> 
+  <td>Application:danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng</td> 
 </tr>
 </table>
 
