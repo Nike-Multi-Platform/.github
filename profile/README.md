@@ -102,15 +102,15 @@
 </tr>  
 <tr>
   <td>Phan Ngọc Bảo Vinh</td>
-  <td>Application: quản lý sản phẩm, nhập hàng </td> 
+  <td>Application: quản lý thêm xóa sửa sản phẩm thiết kế moudel đăng nhập - quản lý size,voucher,quản lý review, đơn hàng </td> 
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
-  <td></td> 
+  <td>Làm lọc dữ liệu tìm kiếm sản phẩm,thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng</td> 
 </tr>
 <tr>
   <td>Hồ Hoàng Khắc Dũng</td>
-  <td></td> 
+  <td>danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng</td> 
 </tr>
 </table>
 
