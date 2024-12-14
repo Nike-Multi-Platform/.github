@@ -41,7 +41,7 @@
     <li>Service: Cloudinary</li>
   </ul>
   
-  Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike-application)
+  Link dự án: [Tại đây](https://github.com/Nike-Multi-Platform/nike_management)
   
   ### - Website:
    #### + Font-end:
