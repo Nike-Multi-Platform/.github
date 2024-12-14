@@ -110,7 +110,7 @@
 </tr>
 <tr>
   <td>Hồ Hoàng Khắc Dũng</td>
-  <td>Application:danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, yêu thích sản phẩm, thanh toán, chi tiết đơn hàng,Search sản phẩm
+  <td>Application:danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, yêu thích sản phẩm, thanh toán, chi tiết đơn hàng,Search sản phẩm, Yêu cầu trả hàng/hủy đơn
  </td> 
 
 </tr>
