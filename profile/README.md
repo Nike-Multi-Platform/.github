@@ -103,7 +103,7 @@
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
-  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng, đơn hàng
+  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng, đơn hàng, trả hàng
  <br> 
 <td>Web: Giao hàng nhanh, tích hợp AI vào web search </td>
 </td> 
