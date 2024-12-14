@@ -99,15 +99,20 @@
 </tr>  
 <tr>
   <td>Phan Ngọc Bảo Vinh</td>
-  <td>Application: quản lý thêm xóa sửa sản phẩm thiết kế moudel đăng nhập - quản lý size,voucher,quản lý review, đơn hàng </td> 
+  <td>Application: quản lý thêm xóa sửa sản phẩm thiết kế moudel đăng nhập - quản lý size,voucher, train AI</td> 
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
-  <td>Application:Làm lọc dữ liệu tìm kiếm sản phẩm,thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng</td> 
+  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng, đơn hàng
+ <br> 
+<td>Web: Giao hàng nhanh, tích hợp AI vào web search </td>
+</td> 
 </tr>
 <tr>
   <td>Hồ Hoàng Khắc Dũng</td>
-  <td>Application:danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng</td> 
+  <td>Application:danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, yêu thích sản phẩm, thanh toán, chi tiết đơn hàng,Search sản phẩm
+ </td> 
+
 </tr>
 </table>
 
