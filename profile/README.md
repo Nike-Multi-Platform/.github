@@ -86,12 +86,9 @@
 - Application:
     - Quản trị viên:
        - Quản lý tài khoản khách hàng
-       - Quản lý danh mục sản phẩm
        - Quản lý sản phẩm
        - Quản lý đơn hàng
        - Quản lý voucher
-       - Quản lý flashsales
-       - Quản lý nhà cung cấp
        - Nhập hàng
        - Thống kê doanh thu
 # 5. Bảng phân công 
