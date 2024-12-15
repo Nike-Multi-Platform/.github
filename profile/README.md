@@ -73,7 +73,7 @@
 - Ứng dụng bán hàng thời trang Nike đa nền tảng hỗ trợ cho việc quản lý và bán các mặt hàng liên quan đến thời trang.
 - Mục tiêu sử dụng website để hiển thị các mặt hàng thời trang dành cho việc buôn bán, application để cho việc quản lý các mặt hàng thời trang.
 ### 4.2. Yêu cầu chức năng/Thành phần
-- AI: Sử dụng CNN để dự đoán tìm kiếm sản phẩm bằng hình ảnh.
+- AI: Sử dụng thuật toán để dự đoán tìm kiếm sản phẩm bằng hình ảnh.
 - Website:
   - Khách hàng:
     - Đăng ký/Đăng nhập
@@ -103,14 +103,14 @@
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
-  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, nhập hàng, đơn hàng
+  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, nhập hàng, đơn hàng,quản lý sale,quản lý voucher
  <br> 
-Web: Giao hàng nhanh, tích hợp AI vào web search, chi tiết đơn hàng,Search sản phẩm
+Web: Giao hàng nhanh, tích hợp AI vào web search,Search sản phẩm
 </td> 
 </tr>
 <tr>
   <td>Hồ Hoàng Khắc Dũng</td>
-  <td>Application:danh mục,product object,quản lý sale,quản lý voucher<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, yêu thích sản phẩm, thanh toán,Yêu cầu trả hàng/hủy đơn
+  <td>Application:danh mục,product object<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, chi tiết đơn hàng, yêu thích sản phẩm, thanh toán,Yêu cầu trả hàng/hủy đơn
  </td> 
 </tr>
 </table>
