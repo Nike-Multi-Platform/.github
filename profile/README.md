@@ -103,14 +103,14 @@
 </tr>
 <tr>
   <td>Bồ Quang Diệu</td>
-  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, icon sản phẩm, nhập hàng, đơn hàng
+  <td>Application:Thống kê doanh thu,quản lý nhà cung cấp, nhập hàng, đơn hàng
  <br> 
 Web: Giao hàng nhanh, tích hợp AI vào web search, chi tiết đơn hàng,Search sản phẩm
 </td> 
 </tr>
 <tr>
   <td>Hồ Hoàng Khắc Dũng</td>
-  <td>Application:danh mục,product object,quản lý sale,quản lý voucher,Nhập hàng<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, yêu thích sản phẩm, thanh toán,Yêu cầu trả hàng/hủy đơn
+  <td>Application:danh mục,product object,quản lý sale,quản lý voucher<br>Web:Chi tiết sản phẩm, thêm giỏ hàng, yêu thích sản phẩm, thanh toán,Yêu cầu trả hàng/hủy đơn
  </td> 
 </tr>
 </table>
